@@ -1,0 +1,40 @@
+<RCC>
+    <qresource prefix="/">
+        <file>main.qml</file>
+        <file>qtquickcontrols2.conf</file>
+        <file>PageSetting.qml</file>
+        <file>BetterButton.qml</file>
+        <file>LayoutSection.qml</file>
+        <file>Write.qml</file>
+        <file>Read.qml</file>
+        <file>script.mjs</file>
+    </qresource>
+    <qresource prefix="/dialog">
+        <file>SliderDialog.qml</file>
+        <file>SwitchDialog.qml</file>
+        <file>ButtonDialog.qml</file>
+        <file>RegisterSetup.qml</file>
+        <file>ValueSetup.qml</file>
+    </qresource>
+    <qresource prefix="/Icons">
+        <file>Icons/1x/baseline_settings_black_24dp.png</file>
+        <file>Icons/2x/baseline_settings_black_24dp.png</file>
+        <file>Icons/menu-black-24dp/2x/baseline_menu_black_24dp.png</file>
+        <file>Icons/menu-black-24dp/1x/baseline_menu_black_24dp.png</file>
+        <file>Icons/tempa.png</file>
+        <file>Icons/round_power_settings_new_black_24dp.png</file>
+        <file>Icons/round_power_settings_new_black_36dp.png</file>
+        <file>Icons/round_power_settings_new_black_48dp.png</file>
+        <file>Icons/base.png</file>
+        <file>Icons/smart-house.png</file>
+        <file>Icons/4453968.png</file>
+    </qresource>
+    <qresource prefix="/elements">
+        <file>Knob.png</file>
+        <file>Knob.qml</file>
+        <file>Linear.png</file>
+        <file>Linear.qml</file>
+        <file>WaterLevel.png</file>
+        <file>WaterLevel.qml</file>
+    </qresource>
+</RCC>
