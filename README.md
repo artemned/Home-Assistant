@@ -11,7 +11,7 @@
  * ### *Control panel*
 <img src=fotoApp/Screenshot_20211128-174309.png width="865">
 
- ## *License: [Free licennse](https://github.com/artemned/Home-Assistant/blob/main/LICENSE)*
+ ## *License: [Free license](https://github.com/artemned/Home-Assistant/blob/main/LICENSE)*
  
  ## *Email address for feedback: daineko.a32@mail.ru*
 
